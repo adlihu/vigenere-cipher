@@ -1,2 +1,2 @@
 # vigenere-cipher
-C++ Implementation of Vigenere Cipher
+C++ Implementation of Vigenere Ciphe
